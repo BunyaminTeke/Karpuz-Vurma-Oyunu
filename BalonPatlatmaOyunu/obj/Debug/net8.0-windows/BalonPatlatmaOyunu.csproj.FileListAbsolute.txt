@@ -1,0 +1,34 @@
+C:\Users\tekeb\Desktop\Görsel Programlama\BalonPatlatmaOyunu\BalonPatlatmaOyunu\bin\Debug\net8.0-windows\BalonPatlatmaOyunu.exe
+C:\Users\tekeb\Desktop\Görsel Programlama\BalonPatlatmaOyunu\BalonPatlatmaOyunu\bin\Debug\net8.0-windows\BalonPatlatmaOyunu.deps.json
+C:\Users\tekeb\Desktop\Görsel Programlama\BalonPatlatmaOyunu\BalonPatlatmaOyunu\bin\Debug\net8.0-windows\BalonPatlatmaOyunu.runtimeconfig.json
+C:\Users\tekeb\Desktop\Görsel Programlama\BalonPatlatmaOyunu\BalonPatlatmaOyunu\bin\Debug\net8.0-windows\BalonPatlatmaOyunu.dll
+C:\Users\tekeb\Desktop\Görsel Programlama\BalonPatlatmaOyunu\BalonPatlatmaOyunu\bin\Debug\net8.0-windows\BalonPatlatmaOyunu.pdb
+C:\Users\tekeb\Desktop\Görsel Programlama\BalonPatlatmaOyunu\BalonPatlatmaOyunu\obj\Debug\net8.0-windows\BalonPatlatmaOyunu.Form1.resources
+C:\Users\tekeb\Desktop\Görsel Programlama\BalonPatlatmaOyunu\BalonPatlatmaOyunu\obj\Debug\net8.0-windows\BalonPatlatmaOyunu.csproj.GenerateResource.cache
+C:\Users\tekeb\Desktop\Görsel Programlama\BalonPatlatmaOyunu\BalonPatlatmaOyunu\obj\Debug\net8.0-windows\BalonPatlatmaOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekeb\Desktop\Görsel Programlama\BalonPatlatmaOyunu\BalonPatlatmaOyunu\obj\Debug\net8.0-windows\BalonPatlatmaOyunu.AssemblyInfoInputs.cache
+C:\Users\tekeb\Desktop\Görsel Programlama\BalonPatlatmaOyunu\BalonPatlatmaOyunu\obj\Debug\net8.0-windows\BalonPatlatmaOyunu.AssemblyInfo.cs
+C:\Users\tekeb\Desktop\Görsel Programlama\BalonPatlatmaOyunu\BalonPatlatmaOyunu\obj\Debug\net8.0-windows\BalonPatlatmaOyunu.csproj.CoreCompileInputs.cache
+C:\Users\tekeb\Desktop\Görsel Programlama\BalonPatlatmaOyunu\BalonPatlatmaOyunu\obj\Debug\net8.0-windows\BalonPatlatmaOyunu.dll
+C:\Users\tekeb\Desktop\Görsel Programlama\BalonPatlatmaOyunu\BalonPatlatmaOyunu\obj\Debug\net8.0-windows\refint\BalonPatlatmaOyunu.dll
+C:\Users\tekeb\Desktop\Görsel Programlama\BalonPatlatmaOyunu\BalonPatlatmaOyunu\obj\Debug\net8.0-windows\BalonPatlatmaOyunu.pdb
+C:\Users\tekeb\Desktop\Görsel Programlama\BalonPatlatmaOyunu\BalonPatlatmaOyunu\obj\Debug\net8.0-windows\BalonPatlatmaOyunu.genruntimeconfig.cache
+C:\Users\tekeb\Desktop\Görsel Programlama\BalonPatlatmaOyunu\BalonPatlatmaOyunu\obj\Debug\net8.0-windows\ref\BalonPatlatmaOyunu.dll
+C:\Users\tekeb\Desktop\Görsel Programlama\BalonPatlatmaOyunu\BalonPatlatmaOyunu\obj\Debug\net8.0-windows\BalonPatlatmaOyunu.Resource1.resources
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\BalonPatlatmaOyunu\BalonPatlatmaOyunu\bin\Debug\net8.0-windows\BalonPatlatmaOyunu.exe
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\BalonPatlatmaOyunu\BalonPatlatmaOyunu\bin\Debug\net8.0-windows\BalonPatlatmaOyunu.deps.json
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\BalonPatlatmaOyunu\BalonPatlatmaOyunu\bin\Debug\net8.0-windows\BalonPatlatmaOyunu.runtimeconfig.json
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\BalonPatlatmaOyunu\BalonPatlatmaOyunu\bin\Debug\net8.0-windows\BalonPatlatmaOyunu.dll
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\BalonPatlatmaOyunu\BalonPatlatmaOyunu\bin\Debug\net8.0-windows\BalonPatlatmaOyunu.pdb
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\BalonPatlatmaOyunu\BalonPatlatmaOyunu\obj\Debug\net8.0-windows\BalonPatlatmaOyunu.Form1.resources
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\BalonPatlatmaOyunu\BalonPatlatmaOyunu\obj\Debug\net8.0-windows\BalonPatlatmaOyunu.Resource1.resources
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\BalonPatlatmaOyunu\BalonPatlatmaOyunu\obj\Debug\net8.0-windows\BalonPatlatmaOyunu.csproj.GenerateResource.cache
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\BalonPatlatmaOyunu\BalonPatlatmaOyunu\obj\Debug\net8.0-windows\BalonPatlatmaOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\BalonPatlatmaOyunu\BalonPatlatmaOyunu\obj\Debug\net8.0-windows\BalonPatlatmaOyunu.AssemblyInfoInputs.cache
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\BalonPatlatmaOyunu\BalonPatlatmaOyunu\obj\Debug\net8.0-windows\BalonPatlatmaOyunu.AssemblyInfo.cs
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\BalonPatlatmaOyunu\BalonPatlatmaOyunu\obj\Debug\net8.0-windows\BalonPatlatmaOyunu.csproj.CoreCompileInputs.cache
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\BalonPatlatmaOyunu\BalonPatlatmaOyunu\obj\Debug\net8.0-windows\BalonPatlatmaOyunu.dll
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\BalonPatlatmaOyunu\BalonPatlatmaOyunu\obj\Debug\net8.0-windows\refint\BalonPatlatmaOyunu.dll
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\BalonPatlatmaOyunu\BalonPatlatmaOyunu\obj\Debug\net8.0-windows\BalonPatlatmaOyunu.pdb
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\BalonPatlatmaOyunu\BalonPatlatmaOyunu\obj\Debug\net8.0-windows\BalonPatlatmaOyunu.genruntimeconfig.cache
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\BalonPatlatmaOyunu\BalonPatlatmaOyunu\obj\Debug\net8.0-windows\ref\BalonPatlatmaOyunu.dll
